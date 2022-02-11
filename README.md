@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[![](https://discord.c99.nl/widget/theme-1/481377376475938826.png)](https://discord.gg/5jJmQPmvpV)
+[![](https://discord.c99.nl/widget/theme-3/481377376475938826.png)](https://discord.gg/5jJmQPmvpV)
 
 <!--
 **micfun123/micfun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

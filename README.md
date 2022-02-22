@@ -2,6 +2,10 @@
 
 ![micfun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=micfun123&show_icons=true&theme=cobalt)
 
+<br>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micfun123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:

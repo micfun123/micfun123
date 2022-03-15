@@ -13,7 +13,7 @@
 [![](https://discord.c99.nl/widget/theme-3/481377376475938826.png)](https://discord.gg/5jJmQPmvpV)
 
 
-[![micfun123's github activity graph](https://activity-graph.herokuapp.com/graph?username=micfun123&theme=dracula](https://github.com/micfun123/github-readme-activity-graph)
+[![micfun123's github activity graph](https://activity-graph.herokuapp.com/graph?username=micfun123&theme=dracula)](https://github.com/micfun123/github-readme-activity-graph)
 
 
 <!--

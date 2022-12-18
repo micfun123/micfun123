@@ -13,7 +13,7 @@
 [![](https://discord.c99.nl/widget/theme-3/481377376475938826.png)](https://discord.gg/5jJmQPmvpV)
 
 
-[![Michaesl's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=micfun134&custom_title=Micfun123%27s%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/micfun123)
+[![Michaesl's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=micfun123&custom_title=Micfun123%27s%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/micfun123)
 
 
 <!--

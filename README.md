@@ -4,9 +4,6 @@
 
 <br>
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>  <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> <img src="{https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white}" />
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micfun123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 

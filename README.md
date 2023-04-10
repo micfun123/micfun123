@@ -12,8 +12,6 @@
 
 [![Michaesl's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=micfun123&custom_title=Micfun123%27s%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/micfun123)
 
-iv made a mastodon https://mastodon.social/@michaelparker
-
 <!--
 **micfun123/micfun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

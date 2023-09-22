@@ -5,9 +5,6 @@
 
 ![micfun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=micfun123&show_icons=true&theme=cobalt)
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=micfun123)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 
 [![](https://discord.c99.nl/widget/theme-3/481377376475938826.png)](https://discord.gg/5jJmQPmvpV)

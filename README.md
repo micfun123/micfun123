@@ -4,6 +4,7 @@
 ## Im Michael parker a 17 year old dev who seems to have a reputation as that discord bot guy. I am English and live in the uk but iv moved around a bit. Enjoy my code
 
 ![micfun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=micfun123&show_icons=true&theme=cobalt)
+![micfun123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=micfun123&theme=cobalt&hide_border=true)
 
 ### Connect with me:
 

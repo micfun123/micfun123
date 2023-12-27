@@ -18,7 +18,6 @@ I'm a 17-year-old developer known for my expertise in Discord bot development. O
 - 🌱 I'm continuously learning and exploring new technologies.
 - 💬 Ask me about Discord bot development, HTML, CSS, JavaScript, and Python.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about coding and creating engaging experiences!
 
 ### Projects
 

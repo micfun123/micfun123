@@ -28,9 +28,9 @@ I'm a 17-year-old developer known for my expertise in Discord bot development. O
 ### Skills and Technologies
 
 - Languages: JavaScript, Python, HTML, CSS
-- Currently Learning: C, C++
-- Frameworks/Libraries: Discord.js, React.js
-- Tools: Git, Visual Studio Code, Firebase
+- Currently Learning: C, C++ , JavaScript 
+- Frameworks/Libraries: Discord.py, py-cord, django, flask , FastAPI
+- Tools: Git, Visual Studio Code, SQL
 
 ### Languages and Tools:
 

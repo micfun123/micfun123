@@ -21,7 +21,7 @@ I'm a 17-year-old developer known for my expertise in Discord bot development. O
 
 ### Projects
 
-- **Simplex Bot:** A Discord bot aimed at providing various functionalities within Discord servers. Developed using JavaScript with Discord.js. [GitHub Repository](https://github.com/micfun123/Simplex_bot)
+- **Simplex Bot:** A Discord bot aimed at providing various functionalities within Discord servers. Developed using python starting with discord.py and then moving to py-cord. [GitHub Repository](https://github.com/micfun123/Simplex_bot)
 - **Unknown Coin:** Created a cryptocurrency project at the age of 14. [GitHub Repository](https://github.com/Unknown-Coin/unknownCoin)
 - **Internet-Controlled Christmas Tree:** Developed a project allowing anyone to change the lights of a Christmas tree globally via a Discord bot. [GitHub Repository](https://github.com/micfun123/Discord_Controlled_Christmas_Tree)
 

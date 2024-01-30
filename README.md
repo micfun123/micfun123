@@ -16,7 +16,7 @@ I'm a 17-year-old developer known for my expertise in Discord bot development. O
 
 - 🔭 I'm currently working on Simplex Bot, an open-source Discord bot.
 - 🌱 I'm continuously learning and exploring new technologies.
-- 💬 Ask me about Discord bot development, HTML, CSS, JavaScript, and Python.
+- 💬 Ask me about Discord bot development, HTML, CSS, JavaScript, and my favourite Python.
 - 😄 Pronouns: He/Him
 
 ### Projects

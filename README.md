@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael Parker! 👋
 
-I'm a 17-year-old developer known for my expertise in Discord bot development. Originally from England, I've lived in various places. Welcome to my GitHub profile!
+I'm a 18-year-old developer known for my expertise in Discord bot development. Originally from England, I've lived in various places. Welcome to my GitHub profile!
 
 🌟 Check out my YouTube channel: [Michael's YouTube Channel](https://www.youtube.com/channel/UCseznP4Qb2DrRcDXcnAx_iw)
 

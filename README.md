@@ -2,6 +2,7 @@
 
 I'm a 18-year-old developer known for my expertise in Discord bot development. Originally from England, I've lived in various places. Welcome to my GitHub profile!
 
+Want to learn more about me? [Here my website and blog](https://www.michaelrbparker.com/)
 🌟 Check out my YouTube channel: [Michael's YouTube Channel](https://www.youtube.com/channel/UCseznP4Qb2DrRcDXcnAx_iw)
 
 ![micfun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=micfun123&show_icons=true&theme=cobalt)

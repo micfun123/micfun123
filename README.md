@@ -6,7 +6,6 @@ Want to learn more about me? [Here my website and blog](https://www.michaelrbpar
 🌟 Check out my YouTube channel: [Michael's YouTube Channel](https://www.youtube.com/channel/UCseznP4Qb2DrRcDXcnAx_iw)
 
 ![micfun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=micfun123&show_icons=true&theme=cobalt)
-![micfun123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=micfun123&theme=vue-dark&hide_border=true)
 
 ### Connect with me:
 

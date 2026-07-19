@@ -1,37 +1,33 @@
-### Hi there, I'm Michael Parker! 👋
+# Hi there, I'm Michael Parker! 👋
 
-I'm a 18-year-old developer known for my expertise in Discord bot development. Originally from England, I've lived in various places. Welcome to my GitHub profile!
+I'm a British Computer Science student at the University of Portsmouth, focused on Python and backend development. I'm currently on a year-long Technical Studentship at CERN (starting July 2026), working on data downsampling with the Data Monitoring Team.
 
-Want to learn more about me? [Here my website and blog](https://www.michaelrbparker.com/)
-🌟 Check out my YouTube channel: [Michael's YouTube Channel](https://www.youtube.com/channel/UCseznP4Qb2DrRcDXcnAx_iw)
-
-![micfun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=micfun123&show_icons=true&theme=cobalt)
+🌐 [Website & Blog](https://www.michaelrbparker.com/) | 🌟 [YouTube Channel](https://www.youtube.com/channel/UCseznP4Qb2DrRcDXcnAx_iw)
 
 ### Connect with me:
-
 [![Discord Badge](https://discord.c99.nl/widget/theme-3/481377376475938826.png)](https://discord.gg/5jJmQPmvpV)
 - Email: michaelrbparker@protonmail.com
-
-### About Me:
-
-- 🔭 I'm currently working on Simplex Bot, an open-source Discord bot.
-- 🌱 I'm continuously learning and exploring new technologies.
-- 💬 Ask me about Discord bot development, HTML, CSS, JavaScript, and my favourite Python.
 - 😄 Pronouns: He/Him
 
-### Projects
+### About Me:
+- 🔬 Technical Student at CERN — data downsampling, Data Monitoring Team
+- 🔭 Developer of **Simplex**, an open-source Discord bot running on 760+ servers with 87,000+ users
+- 📄 Co-author of a published research paper on stock price prediction using ensemble machine learning models (*International Journal of Financial Studies*, 2024)
+- 🎓 President of the University of Portsmouth IT Society, CS student representative, and I run a free weekly coding course for non-computing students
+- 🏆 Hackathon and programming contest regular — Hack Pompey, UKIEPC
 
-- **Simplex Bot:** A Discord bot aimed at providing various functionalities within Discord servers. Developed using python starting with discord.py and then moving to py-cord. [GitHub Repository](https://github.com/micfun123/Simplex_bot)
-- **Unknown Coin:** Created a cryptocurrency project at the age of 14. [GitHub Repository](https://github.com/Unknown-Coin/unknownCoin)
-- **Internet-Controlled Christmas Tree:** Developed a project allowing anyone to change the lights of a Christmas tree globally via a Discord bot. [GitHub Repository](https://github.com/micfun123/Discord_Controlled_Christmas_Tree)
+### Projects
+- **[Simplex Bot](https://github.com/micfun123/Simplex_bot):** A feature-rich open-source Discord bot I've maintained since 2021, now serving 760+ servers and 87,000+ users. Focused on automation, moderation, and easier server management. Built with Python 3.9, Py-Cord, and SQLite.
+- **[Internet-Controlled Christmas Tree](https://github.com/micfun123/Discord_Controlled_Christmas_Tree):** A Raspberry Pi + Discord bot project letting anyone on the internet control my Christmas tree's LEDs — individual colours, patterns, and designs.
+- **Chef AI:** A Flutter app that manages your virtual fridge and generates recipes from ingredients you already have, prioritising items by expiration date to cut food waste. Built with Dart, Flutter, and SQLite.
+- **Spoon Finder:** A React Native navigation app that gives you a distance and compass bearing to your nearest Wetherspoons.
+- **Spotify Word Clouds:** A Python 3.10 / Flask app that turns your Spotify listening history into a word cloud poster of your favourite artists and tracks.
+- **Python Fill-in-the-Blanks:** A web tool for CS teachers — strips comments and docstrings from Python code and blanks out a chosen number of words to generate exercises.
+- **Simplistic Weather App:** A simple forecast app built with Flutter, Dart, and the OpenWeather API.
+- **[Modrinth Plugins](https://modrinth.com/):** Java server utility plugins and mods for Minecraft, focused on quality-of-life improvements — 2000+ downloads.
 
 ### Skills and Technologies
-
-- Languages: JavaScript, Python, HTML, CSS
-- Currently Learning: C, C++ , JavaScript 
-- Frameworks/Libraries: Discord.py, py-cord, django, flask , FastAPI
-- Tools: Git, Visual Studio Code, SQL
-
-### Languages and Tools:
-
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-ffdd00.svg?&style=for-the-badge&logo=javascript&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+- **Languages:** Python, Java, Dart, JavaScript, HTML, CSS, C
+- **Currently Learning:** C, C++
+- **Frameworks/Libraries:** Py-Cord, Discord.py, Django, Flask, FastAPI, Flutter, React Native
+- **Tools:** Git, Visual Studio Code, SQL/SQLite, Raspberry Pi
